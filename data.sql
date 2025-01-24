@@ -7,3 +7,4 @@ CREATE TABLE person (
 INSERT INTO person (name) VALUES('Peksudus');
 INSERT INTO person (name) VALUES('Caligula');
 INSERT INTO person (name) VALUES('Hip hap huu');
+
